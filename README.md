@@ -22,7 +22,7 @@ Flixmedia provides SDKs for multiple mobile platforms:
 | React Native test app and module package release | [FlixReactTestApp](https://github.com/FlixmediaTech/FlixReactTestApp) |
 | React Native Inpage Module | [react-native-flix-inpage](https://github.com/FlixmediaTech/react-native-flix-inpage) |
 | Flutter Inpage Plugin | [flix_inpage](https://github.com/FlixmediaTech/flix_inpage) |
-| Flutter test app | [flix_inpage](https://github.com/FlixmediaTech/flix_test) |
+| Flutter test app | [flix_test](https://github.com/FlixmediaTech/flix_test) |
 
 ---
 
